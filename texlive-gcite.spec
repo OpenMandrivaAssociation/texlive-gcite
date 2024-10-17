@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Citations in a reader-friendly style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/exptl/gcite
+URL:		https://www.ctan.org/tex-archive/macros/latex/exptl/gcite
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gcite.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gcite.doc.r%{version}.tar.xz
